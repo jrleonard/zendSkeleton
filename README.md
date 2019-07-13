@@ -1,0 +1,2 @@
+# zendSkeleton
+Zend skeleton debug 
